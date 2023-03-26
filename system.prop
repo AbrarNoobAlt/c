@@ -5,6 +5,8 @@ ro.sf.blurs_are_expensive=1
 
 # Camera
 camera.disable_zsl_mode=true
+persist.vendor.camera.privapp.list=com.android.camera
+vendor.camera.aux.packagelist=com.android.camera
 
 # Charger
 ro.charger.disable_init_blank=true
